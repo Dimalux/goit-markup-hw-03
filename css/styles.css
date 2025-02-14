@@ -190,7 +190,6 @@ body {
   padding-bottom: 120px;
 }
 
-
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -203,9 +202,6 @@ body {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
-
-
 
 .advantages-list {
   display: flex;
@@ -337,8 +333,7 @@ body {
   display: flex;
   flex-direction: column;
 }
-.portfolio-foto {
-}
+
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
